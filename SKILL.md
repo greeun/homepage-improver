@@ -6,6 +6,7 @@ description: |
   (3) User wants UI/UX analysis, (4) User asks about performance or accessibility improvements,
   (5) User mentions "homepage improvement", "landing page optimization", "website makeover",
   (6) User provides a URL or HTML/CSS code for review, (7) User asks to make a page more modern or responsive.
+version: 1.0.0
 ---
 
 # Homepage Improver
